@@ -1,0 +1,214 @@
+[
+  {
+    "id": "s1",
+    "anio": 2026,
+    "mes": 3,
+    "dia": 15,
+    "hora": "09:00",
+    "tipo": "INDUCCIÓN",
+    "accent": "#0A2540",
+    "badgeBg": "#E6F8FA",
+    "badgeBorder": "#0a5c6e40",
+    "badgeColor": "#0a5c6e",
+    "titulo": "Módulo 1 — Inducción Credixpertos",
+    "desc": "Qué es libranza, cómo opera Credixpertos, CRM, protocolo de contacto y herramienta de políticas. 2 horas.",
+    "entidad": null
+  },
+  {
+    "id": "s2",
+    "anio": 2026,
+    "mes": 3,
+    "dia": 22,
+    "hora": "09:00",
+    "tipo": "POLÍTICA ENTIDAD",
+    "accent": "#0A2540",
+    "badgeBg": "#DBEAFE",
+    "badgeBorder": "#93C5FD",
+    "badgeColor": "#1e40af",
+    "titulo": "Módulo 2 — SUDAMERIS",
+    "desc": "Condiciones, pagadurías que acepta, montos, plazos, restricciones y casos especiales.",
+    "entidad": {
+      "label": "Banco",
+      "bg": "#DBEAFE",
+      "color": "#1e40af"
+    }
+  },
+  {
+    "id": "s3",
+    "anio": 2026,
+    "mes": 3,
+    "dia": 29,
+    "hora": "09:00",
+    "tipo": "POLÍTICA ENTIDAD",
+    "accent": "#00B4C8",
+    "badgeBg": "#E6F8FA",
+    "badgeBorder": "#67E8F9",
+    "badgeColor": "#0a5c6e",
+    "titulo": "Módulo 2 — EXCELCREDIT",
+    "desc": "Condiciones, pagadurías que acepta, montos, plazos, restricciones y casos especiales.",
+    "entidad": {
+      "label": "Financiera",
+      "bg": "#E6F8FA",
+      "color": "#0a5c6e"
+    }
+  },
+  {
+    "id": "s4",
+    "anio": 2026,
+    "mes": 4,
+    "dia": 6,
+    "hora": "09:00",
+    "tipo": "POLÍTICA ENTIDAD",
+    "accent": "#0A2540",
+    "badgeBg": "#DBEAFE",
+    "badgeBorder": "#93C5FD",
+    "badgeColor": "#1e40af",
+    "titulo": "Módulo 2 — BANCO DE BOGOTÁ",
+    "desc": "Condiciones, pagadurías que acepta, montos, plazos, restricciones y casos especiales.",
+    "entidad": {
+      "label": "Banco",
+      "bg": "#DBEAFE",
+      "color": "#1e40af"
+    }
+  },
+  {
+    "id": "s5",
+    "anio": 2026,
+    "mes": 4,
+    "dia": 13,
+    "hora": "09:00",
+    "tipo": "VENTAS",
+    "accent": "#C9922A",
+    "badgeBg": "#FEF3C7",
+    "badgeBorder": "#92400E40",
+    "badgeColor": "#92400E",
+    "titulo": "Módulo 3 — Técnicas de venta y manejo de objeciones",
+    "desc": "Guión de apertura, las 5 objeciones más comunes, técnicas de cierre y role play entre asesores.",
+    "entidad": null
+  },
+  {
+    "id": "s6",
+    "anio": 2026,
+    "mes": 4,
+    "dia": 20,
+    "hora": "09:00",
+    "tipo": "POLÍTICA ENTIDAD",
+    "accent": "#0A2540",
+    "badgeBg": "#DBEAFE",
+    "badgeBorder": "#93C5FD",
+    "badgeColor": "#1e40af",
+    "titulo": "Módulo 2 — BANCO PICHINCHA",
+    "desc": "Condiciones, pagadurías que acepta, montos, plazos, restricciones y casos especiales.",
+    "entidad": {
+      "label": "Banco",
+      "bg": "#DBEAFE",
+      "color": "#1e40af"
+    }
+  },
+  {
+    "id": "s7",
+    "anio": 2026,
+    "mes": 4,
+    "dia": 27,
+    "hora": "09:00",
+    "tipo": "POLÍTICA ENTIDAD",
+    "accent": "#0A2540",
+    "badgeBg": "#DBEAFE",
+    "badgeBorder": "#93C5FD",
+    "badgeColor": "#1e40af",
+    "titulo": "Módulo 2 — BANCO POPULAR",
+    "desc": "Condiciones, pagadurías que acepta, montos, plazos, restricciones y casos especiales.",
+    "entidad": {
+      "label": "Banco",
+      "bg": "#DBEAFE",
+      "color": "#1e40af"
+    }
+  },
+  {
+    "id": "s8",
+    "anio": 2026,
+    "mes": 5,
+    "dia": 3,
+    "hora": "09:00",
+    "tipo": "PERFILAMIENTO",
+    "accent": "#166534",
+    "badgeBg": "#DCFCE7",
+    "badgeBorder": "#16653440",
+    "badgeColor": "#166534",
+    "titulo": "Módulo 4 — Perfilamiento por pagaduría",
+    "desc": "CASUR, CREMIL, Colpensiones, Secretarías de Educación y fondos privados. Lectura de desprendibles y casos reales.",
+    "entidad": null
+  },
+  {
+    "id": "s11",
+    "anio": 2026,
+    "mes": 5,
+    "dia": 24,
+    "hora": "09:00",
+    "tipo": "POLÍTICA ENTIDAD",
+    "accent": "#00B4C8",
+    "badgeBg": "#E6F8FA",
+    "badgeBorder": "#67E8F9",
+    "badgeColor": "#0a5c6e",
+    "titulo": "Módulo 2 — VALORENZ",
+    "desc": "Condiciones, pagadurías que acepta, montos, plazos, restricciones y casos especiales.",
+    "entidad": {
+      "label": "Financiera",
+      "bg": "#E6F8FA",
+      "color": "#0a5c6e"
+    }
+  },
+  {
+    "id": "s12",
+    "anio": 2026,
+    "mes": 6,
+    "dia": 1,
+    "hora": "09:00",
+    "tipo": "POLÍTICA ENTIDAD",
+    "accent": "#7C3AED",
+    "badgeBg": "#EDE9FE",
+    "badgeBorder": "#C4B5FD",
+    "badgeColor": "#4C1D95",
+    "titulo": "Módulo 2 — SUEÑOS",
+    "desc": "Condiciones, pagadurías que acepta, montos, plazos, restricciones y casos especiales.",
+    "entidad": {
+      "label": "Fintech",
+      "bg": "#EDE9FE",
+      "color": "#4C1D95"
+    }
+  },
+  {
+    "id": "s15",
+    "anio": 2026,
+    "mes": 6,
+    "dia": 22,
+    "hora": "09:00",
+    "tipo": "POLÍTICA ENTIDAD",
+    "accent": "#0A2540",
+    "badgeBg": "#DBEAFE",
+    "badgeBorder": "#93C5FD",
+    "badgeColor": "#1e40af",
+    "titulo": "Módulo 2 — SERFINANZA",
+    "desc": "Condiciones, pagadurías que acepta, montos, plazos, restricciones y casos especiales.",
+    "entidad": {
+      "label": "Banco",
+      "bg": "#DBEAFE",
+      "color": "#1e40af"
+    }
+  },
+  {
+    "id": "s16",
+    "anio": 2026,
+    "mes": 6,
+    "dia": 29,
+    "hora": "09:00",
+    "tipo": "VENTAS",
+    "accent": "#C9922A",
+    "badgeBg": "#FEF3C7",
+    "badgeBorder": "#92400E40",
+    "badgeColor": "#92400E",
+    "titulo": "Módulo 3 — Repaso ventas y objeciones",
+    "desc": "Segunda sesión: casos reales del trimestre, nuevas objeciones detectadas, ajustes al guión.",
+    "entidad": null
+  }
+]
